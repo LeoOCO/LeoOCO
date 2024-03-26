@@ -1,6 +1,6 @@
 # 🌆 leooconnell
 
-- 👋 hey, I'm Leo, and I am an intermediate programmer here on the Internet. i don't have many projects in the works at the moment.
+- 👋 hey, I'm Leo, and I am an intermediate programmer here on the Internet. most of the GitHub material i have here is related to school projects or personal endeavors.
 - 💻 currently trying to improve in JavaScript, Lua, and HTML.
 
 ⚠️ **most, if not all, code on my profile will be in the Lua, JS, or Python programming languages.** some may be in other commonly known languages, such as HTML.
